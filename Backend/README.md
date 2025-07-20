@@ -73,7 +73,7 @@ Each offer is scored using:
 
 #### 🔹 Cold Start Solution
 - For new users, shows high-performing offers from their geography until sufficient data is gathered.
-mai bkl
+mai  
 ---
 
 ## 4. Web Presence: Nexus Landing Page
